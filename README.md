@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @junedmansuri
 - 👀 I’m interested in learning
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 <img scr="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
 
 <!---
