@@ -15,7 +15,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junedmansuri&show_icons=true&theme=radical)
 <img scr="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
 
 <!---
